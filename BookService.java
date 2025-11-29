@@ -1,6 +1,6 @@
 /**
  * 文件名：BookService.java
- * 描述：图书业务逻辑处理类 123456789
+ * 描述：图书业务逻辑处理类
  */
 public class BookService {
 
@@ -14,5 +14,7 @@ public class BookService {
         // TODO: 实验步骤中，请在此处修改代码
         // 例如：在 dev 分支修改这里，或者在多人协作时修改这里制造冲突
         System.out.println("更新图书逻辑 - 版本 1.0");
+        // 123456789
+        System.out.println("123456789");
     }
 }
